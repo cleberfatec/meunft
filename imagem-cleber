@@ -1,0 +1,12 @@
+{
+  "description": "Descrição Cleber", 
+  "external_url": "https://skydiveboituva.com.br", 
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQALAb7qxxjpGVxMbPIQCfxHJW-ZGEylXYAjw&usqp=CAU", 
+  "name": "Skydive",
+  "attributes": [
+    {
+      "trait_type": "Ano", 
+      "value": "2023"
+    }
+  ]
+}
